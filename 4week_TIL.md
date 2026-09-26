@@ -60,10 +60,10 @@ https://www.youtube.com/watch?v=Cbk_tQtuhbM&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 ### 중앙값 구하기 
 #### median () 메서드 
 - 데이터 개수가 짝수인 경우에는 가운데 두 개의 값을 평균하여 중앙값을 결정
-- 
+  
 ### 중복값을 제거하고 중앙값 구하기 
 - drop_duplicates() 메서드를 사용해 중복된 값을 제거한 후 중앙값 구함.
-- 
+  
 ### 최솟값, 최댓값 구하기 
 - min() 메서드, max() 메서드
 
