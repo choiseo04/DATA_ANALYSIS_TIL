@@ -54,18 +54,17 @@ https://www.youtube.com/watch?v=Cbk_tQtuhbM&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 ### 평균 구하기 
 - range() 함수 : 하나의 숫자를 입력할 경우 0부터 입력된 숫자 직전까지 반복할 수 있는 객체 생성
-#### mean() 메서드
-- 평균 계산
+- mean() 메서드 : 평균 계산
+
 
 ### 중앙값 구하기 
-#### median () 메서드 
-- 데이터 개수가 짝수인 경우에는 가운데 두 개의 값을 평균하여 중앙값을 결정
-  
-### 중복값을 제거하고 중앙값 구하기 
-- drop_duplicates() 메서드를 사용해 중복된 값을 제거한 후 중앙값 구함.
+- median () 메서드 : 데이터 개수가 짝수인 경우에는 가운데 두 개의 값을 평균하여 중앙값을 결정
+- 중복값을 제거하고 중앙값 구하기 : drop_duplicates() 메서드를 사용해 중복된 값을 제거한 후 중앙값 구함.
+
   
 ### 최솟값, 최댓값 구하기 
 - min() 메서드, max() 메서드
+
 
 ### 분위수 구하기 
 - 분위수 : 데이터를 순서대로 늘어 놓았을 떄 이를 균등한 간격으로 나누는 기준점
@@ -76,14 +75,18 @@ https://www.youtube.com/watch?v=Cbk_tQtuhbM&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 #### 백분위 구하기 
 - 불리언 배열 -> mean() 메서드
 
+
 ### 분산 구하기 
 - var() 메서드
+
 
 ### 표준편차 구하기 
 - std() 메서드 
 
+
 ### 최빈값 구하기 
 - mode() 메서드
+
 
 ### 넘파이의 기술통계 함수 
 - 평균 구하기 :
@@ -116,6 +119,7 @@ https://www.youtube.com/watch?v=Cbk_tQtuhbM&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 - 매개변수 (x축 좌표, y축 좌표) -> plt.show()
 #### 투명도 조절하기 
 - alpha 매개변수
+
   
 ### 히스토그램 그리기
 - 히스토그램 : 수치형 특성의 값을 일정한 구간으로 나누너 구간 안에 포함된 데이터 개수를 막대 그래프로 그린 것.
@@ -127,6 +131,7 @@ https://www.youtube.com/watch?v=Cbk_tQtuhbM&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 - yscale() 함수 : y축에 로그 함수를 적용한다는 의미
 - bins 매개변수 : 구간을 더 세세하게 나눌 수 있음.
 - x_scale() 함수 : x축에 로그 스케일 적용
+
 
 ### 상자 수염 그림 그리기 
 - (1) 사분위수 계산 -> 25%와 75% 지점을 밑면과 윗면으로 하는 직사각형을 그리기
