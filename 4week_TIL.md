@@ -150,7 +150,11 @@ https://www.youtube.com/watch?v=Cbk_tQtuhbM&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 
 # 2️⃣ 수행 인증
-
+![수행인증1](./images/week4_1.png)
+![수행인증2](./images/week4_2.png)
+![수행인증3](./images/week4_3.png)
+![수행인증4](./images/week4_4.png)
+![수행인증5](./images/week4_5.png)
 <!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 3장 이상의 스크린샷을 캡처하여 아래에 첨부해주세요.-->
 
 
@@ -166,7 +170,8 @@ https://www.youtube.com/watch?v=Cbk_tQtuhbM&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 작업은 코랩에서 진행한 뒤, 코랩 링크를 아래에 첨부해주세요.**
 
 ```
-여기에 코랩 링크를 첨부해주세요!
+[여기에 코랩 링크를 첨부해주세요!](https://colab.research.google.com/drive/1Kq2gLF6s4rAPDd506MsF9jSZUQ5xF8G8?usp=sharing)
+
 (제출 전, 코랩의 공유 설정을 ‘링크가 있는 모든 사용자가 보기 가능’으로 변경했는지 반드시 확인해주세요.)
 ```
 
