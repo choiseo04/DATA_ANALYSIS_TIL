@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=NTQ5NXelOfw&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 #### 객체지향 API 방식으로 그래프 그리기 
 - 하나의 Axes 객체를 가지는 피겨 생성
 - 복잡한 그래프를 그리는 경우 유용(예; 하나의 피겨에 여러 개의 서브플롯을 추가하는 경우)
-
+---
 ### 그래프에 한글 출력하기 
 - 나눔 폰트 설치 -> 맷플롯립 re-import -> DPI 기본값 변경
 #### 폰트 지정하기(1) : font.family 속성 
@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=NTQ5NXelOfw&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
   - get_lecel_values() 메서드 : 다단으로 구성된 열 이름에서 선택한 항목만 가져올 수 있음. 
 - stack plot() 메서드로 스택 영역 그래프 그리기
   - legend() 메서드 : loc 매개변수로 범례의 위치 지정 가능
-
+---
 ### 하나의 피겨에 여러 개의 막대 그래프 그릐기 
 - bar() 메서드 여러 번 호출
 #### 스택 막대 그래프 
